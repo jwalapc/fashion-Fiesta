@@ -99,6 +99,16 @@ font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: #1a252f;
   }
   
+  .btn1{
+    color: rgb(90, 7, 7);
+    float: center;
+    text-decoration: none;
+    width: 1500px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+}
 
    
     
