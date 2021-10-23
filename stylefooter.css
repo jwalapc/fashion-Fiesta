@@ -1,0 +1,113 @@
+/* ***********************subscribe *********** */
+.newsletter_area {
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 70px;
+    margin-bottom: 65px;
+  }
+  
+  .newsletter_black {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 70px;
+  }
+  
+  .newsletter_black h2 {
+    color: #000000;
+    font-family: serif;
+    font-weight: 700;
+    font-size: 35px;
+    letter-spacing: 2px;
+    line-height: 32px;
+  }
+  .newsletter_black p {
+    color: #000000;
+    line-height: 26px;
+    margin-bottom: 37px;
+  }
+  .newsletter_black .newsletter_content form {
+    width: inherit;
+    position: unset;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+  .newsletter_black .newsletter_content form input {
+    width: 100%;
+    border: 2px solid #2d2d2d;
+    font-size: 12px;
+    color: #fff;
+    padding: 0 20px;
+    border-radius: 4px;
+    padding: 10px 224px 10px 20px;
+    background: none;
+  }
+  .newsletter_black .newsletter_content form button {
+    position: absolute;
+    font-family: "Poppins", serif;
+    content: "";
+    right: 0;
+    top: 0;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    padding: 0 60px;
+    background: #a8741a;
+    color: #fff;
+    height: 100%;
+    border: 0;
+    border-radius: 4px;
+    text-transform: capitalize;
+  }
+  
+  .newsletter_black .newsletter_content form button:hover {
+    color: #000;
+  }
+  .newsletter_content {
+    text-align: center;
+  }
+/* footer section */
+.footer_black {
+    border-top: 1px solid #2d2d2d;
+    padding-top: 67px;
+  }
+  
+  .footer_top {
+    padding-bottom: 61px;
+  }
+  .footer_black .widgets_container > h3 {
+    color: #fff;
+    font-family: serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 26px;
+    text-transform: capitalize;
+    margin-bottom: 24px;
+  }
+ 
+  /* *********footer bottom ******* */
+  .footer_bottom {
+    padding: 38px 0 46px;
+  }
+  
+  .copyright_area {
+    text-align: center;
+  }
+  .copyright_area p {
+    text-transform: capitalize;
+    line-height: 26px;
+    color: #a0a0a0;
+  }
+  
+  .copyright_area p a {
+    color: #a8741a;
+  }
+  .copyright_area p a:hover {
+    text-decoration: underline;
+  }
+  
+  /* ***********************over ************** */
+
