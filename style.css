@@ -12,11 +12,12 @@ body{
     overflow-x: hidden;
 
 }
+/* searchbox */
 
 .searchbox{
     
     position: absolute;
-    top: 20px;
+    top: 34px;
     right: 50px;
     
     
