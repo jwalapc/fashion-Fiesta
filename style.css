@@ -13,7 +13,10 @@ body{
 
 }
 /* searchbox */
-
+.img_formen{
+    margin: auto;
+    margin-left: 200px;
+}
 .searchbox{
     
     position: absolute;
