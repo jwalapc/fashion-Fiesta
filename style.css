@@ -1,17 +1,26 @@
 a { text-decoration: none;
 color: black;
-font-size: larger;}
+font-size: larger;
+
+
+}
 a:hover{color:rgb(214, 144, 79)}
 body{
     margin: 0;
     padding-left: 0;
+    padding: 1rem;
+    overflow-x: hidden;
 
 }
-
+/* searchbox */
+.img_formen{
+    margin: auto;
+    margin-left: 200px;
+}
 .searchbox{
     
     position: absolute;
-    top: 20px;
+    top: 34px;
     right: 50px;
     
     
@@ -95,7 +104,22 @@ font-family:Georgia, 'Times New Roman', Times, serif;
     opacity: 10
     ; width: 50px;
 }
-    
+.copyright {
+    background-color: #1a252f;
+  }
+  
+  .btn1{
+    color: rgb(90, 7, 7);
+    float: center;
+    text-decoration: none;
+    width: 1500px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    justify-content: center;
 
-   
+}
+
+
     
